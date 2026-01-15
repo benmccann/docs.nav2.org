@@ -193,7 +193,6 @@ This costmap layer implements a plugin that uses 3D raycasting for depth, 3D, or
     Frame of sensor, to use if not provided by message. If empty, uses message frame_id.
 
 :``<voxel layer>.<data source>``.observation_persistence:
-
   ====== =======
   Type   Default
   ------ -------

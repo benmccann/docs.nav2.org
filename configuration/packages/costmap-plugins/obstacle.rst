@@ -127,7 +127,6 @@ This costmap layer implements a plugin that uses 2D raycasting for 2D lidars, de
     Frame of sensor, to use if not provided by message. If empty, uses message frame_id.
 
 :``<obstacle layer>.<data source>``.observation_persistence:
-
   ====== =======
   Type   Default
   ------ -------
